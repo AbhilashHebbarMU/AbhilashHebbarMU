@@ -78,6 +78,10 @@
 - Conference Location: Kalaburagi, India (Sharnbasva University)
 - Date of Conference: 20 February 2026
 - Publisher: IEEE
+- Date Added to IEEE Xplore: 11 June 2026
+- DOI: 10.1109/ICIICS67880.2026.11483580
+- Publisher: IEEE
+
 
 <br>
 
